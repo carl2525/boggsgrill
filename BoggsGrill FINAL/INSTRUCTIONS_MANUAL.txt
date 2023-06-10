@@ -1,0 +1,23 @@
+Default account list:
+Admin:
+id no: 01	username: carl	password: pass
+User:
+id no: 02	username: erwin	password: carl
+
+DEFAULT PASSWORD LIST:
+password or PASSWORD - VOID BUTTON
+boggsgrill or BOGGSGRILL - ALL BUTTONS THAT NEED PASSWORD, EXCEPT THE
+VOID BUTTON
+========================================================
+*IF YOU CREATE AN ACCOUNT, THE "ID NO" will increment so the next id no. on
+the registered account is "03" next is 04, so on, so for
+*PLEASE INPUT "Admin" and "User", not ADMIN,USER,admin,user.Or anymore.
+*TO GET AN OUTPUT ON PRINT RECEIPT METHOD, CHOOSE "MICROSOFT XPS PRINTER",
+AND SET THE DISPLAY TO "LANDSCAPE"
+*RESTART THE SYSTEM, if you CLICK "RE-STOCK", "RESETSALES" or all "RESET
+FUNCTIONS" to apply method
+*RESTART THE SYSTEM IF YOU"RE GOING TO CHANGE ACCOUNT
+*DO NOT COMMIT ANY "SPACES" USE -,= AS SEPARATOR
+*DO NOT COMMIT PLAGIARISM BECAUSE THIS IS PROPERTY OF "TEAM NI CARL'S"
+*IF THERE IS NO SHOW AFTER YOU CLICK "LOGIN" OR "ENTER" IT MEANS THAT
+YOU ENTER A WRONG "ID NO".,"USERNAME", OR "PASSWORD"
